@@ -1,5 +1,6 @@
 # Face-Mask-Detection
 
+![Sample-Security-Model](https://github.com/yameensk/Face-Mask-Detection/assets/100998841/1a001931-0043-4bb6-9fdf-63c34436577a)
 
 This project, which addresses the urgent need for safety precautions during the COVID-19 pandemic, demonstrates my proficiency in computer vision, Arduino programming, and Python integration.
 
